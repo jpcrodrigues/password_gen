@@ -1,2 +1,2 @@
 # password_gen
-A password generator tool for anyone.
+A password generator library for anyone to use in any java project.
